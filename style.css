@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500&display=swap');
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.glowne{
+    text-align: center;
+    color: white;
+    background-color: rgb(49, 103, 217);
+    margin: 1;
+    height: 50px;
+    border: solid black 3px;
+    
+}
+#gcd{
+    height: 300px;
+    width: 300px;
+    border:solid black 3px ;
+}
+body{
+    background-color: rgb(209, 209, 207);
+}
+.div{
+    display: flex;
+
+}
+button{
+    height: 70px;
+    width: 100px;
+    margin-left: 100px;
+    border: solid black 2px;
+    background-color: rgb(49, 103, 217) ; 
+    color: white;
+    cursor: pointer;
+}
+#dlaczego{
+    width:500px;
+}
+#dlaczego h3{
+    width:100%;font-weight: 400;
+}
+.flex{
+    display: flex;
+    gap:32px;
+}
+.flex img{
+    transform: translateY(-150px);
+    
+}
+#automycie{
+    height: 500px;
+    width: 800px;
+}
+#logocennik{
+    height: 300px;
+    width: 300px;
+    border:solid black 3px ;
+}
+a{
+    color: white;
+}
+h3{
+    font-weight:400 ;
+}
+table,td{
+    border:1px solid black;
+    border-collapse: collapse;
+    padding: 43px;
+}
